@@ -1,6 +1,6 @@
 /**
  * This is the package-info.java file for the FileIO package.
- * 
+ *
 * The FileIO program will read from the input.txt file with integers,
 * decimal and non numerics on each line.
 * It will then try to convert each of the different data types
